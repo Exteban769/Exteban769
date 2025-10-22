@@ -38,8 +38,6 @@ Hola, mi nombre es Esteban Cayo. Actualmente estoy formándome con Talento Tech 
 
 - 📫 Cómo contactar conmigo: estebanjcayo@gmail.com;
 
-- 📝 CV[Resume](https://drive.google.com
-
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
